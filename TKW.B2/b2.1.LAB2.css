@@ -1,0 +1,55 @@
+.w1040 {
+    width: 1000px;
+     margin: 0 auto
+     }
+    body {
+        font-family:'Arial', Helvetica, sans-serif;
+    }
+    .nav {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #070707;
+    }
+
+    .nav li {
+        float: left;
+    }
+
+    .nav li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+    .nav li a:hover {
+        background-color: #111;
+    }
+    
+
+    .kbwc-title {
+    
+        font-size: 34px;
+        line-height: 38px;
+        color: #222
+    } 
+    .kbwc1-title {
+    
+        font-size: 17px;
+        line-height: 22px;
+        color: #222
+    } 
+    .krw{ 
+       color: #040404
+    }
+    .krw li a:hover {
+                color: #386da3       }
+    img{
+         display:block;
+        margin-left:auto;
+         margin-right:auto;
+        width:900px}
+

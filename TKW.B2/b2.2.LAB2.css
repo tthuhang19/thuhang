@@ -1,0 +1,87 @@
+.w1040 {
+    width: 1000px;
+     margin: 0 auto
+     }
+     body {
+        font-family:'Arial', Helvetica, sans-serif;
+    }
+    .nav {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #070707;
+    }
+
+    .nav li {
+        float: left;
+    }
+
+    .nav li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+    .nav li a:hover {
+        background-color: #111;
+    }
+    .nextprev a.w3-right {
+        background-color:#04AA6D;
+        width: 12%; 
+        height: 30px; 
+        border: 2px solid rgb(253, 254, 254);
+        border-radius: 5px;
+        padding: 5px;
+        color:#ffffff;
+        border-color:#04AA6D;
+        float: right;
+    }
+    .nextprev a.w3-left {
+        background-color:#04AA6D;
+        width: 12%; 
+        height: 30px; 
+        border: 2px solid rgb(253, 254, 254);
+        border-radius: 5px;
+        padding: 5px;
+        color:#ffffff;
+        border-color:#04AA6D;
+        float: left;}
+    .w3-example {
+            padding: 8px 20px;
+            padding-top: 8px;
+            padding-right: 20px;
+            padding-bottom: 8px;
+            padding-left: 20px;
+            margin: 24px -20px;
+            margin-top: 24px;
+            margin-right: -20px;
+            margin-bottom: 24px;
+            margin-left: -20px;
+            box-shadow: none!important;
+        }
+        .w3-example {
+            background-color: #E7E9EB;
+            border-radius: 5px;
+            padding: 0.01em 16px;
+            margin: 20px 0;
+            box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12)!important;
+        }
+
+
+        .w3-code{width:auto;background-color:#fff;color:#000;padding:8px 12px;border-left:4px solid #4CAF50;word-wrap:break-word}
+        .cssselectorcolor{color:brown}
+        .csspropertycolor{color:red}
+        .cssdelimitercolor{color:black}
+        .csspropertyvaluecolor{color:mediumblue}
+        
+        
+        .w3-note {
+            background-color: #ffffcc;
+            padding: 20px; 
+            height: 50px; 
+            width: 1000px;
+            display:inline-block;
+            vertical-align:middle;}
